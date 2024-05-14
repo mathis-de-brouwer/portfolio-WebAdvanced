@@ -1,0 +1,60 @@
+body{
+    background-image: url('/ASSETS/images/windows_xp_bliss.jpg');
+    background-size: cover;
+    background-position: center;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.login{
+    width: 300px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.username-group{
+    margin: auto;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.username-group > *{
+    margin: auto;
+    font-size: large;
+}
+
+.password-group{
+    margin: auto;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.password-group > *{
+    margin: auto;
+    font-size: large;
+}
+.Login-button{
+    justify-content: center;
+    display: flex;
+    font-size: large;
+    
+    
+}
+
+.Login-button input{
+    margin: auto;
+    height: 25px;
+    width: 100px;
+}

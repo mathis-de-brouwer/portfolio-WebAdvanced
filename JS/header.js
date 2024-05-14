@@ -18,10 +18,10 @@
     `   
         <nav class="nav">
             <ul class="nav__header">
-                <li class="nav__item"><a href="/HTML/index.html" class="nav__home">home</a></li>
-                <li class="nav__item"><a href="/HTML/recipes.html" class="nav__recipes">recipes</a></li>
-                <li class="nav__item"><a href="/HTML/builds.html" class="nav__builds">builds</a></li>
-                <li class="nav__item"><a href="/HTML/contact.html" class="nav__contacts">contact</a></li>
+                <li><a href="/HTML/home.html" class="nav__item">home</a></li>
+                <li><a href="/HTML/recipes.html" class="nav__item"">recipes</a></li>
+                <li><a href="/HTML/builds.html" class="nav__item">builds</a></li>
+                <li><a href="/HTML/contact.html" class="nav__item">contact</a></li>
             </ul>
         </nav>
     `;

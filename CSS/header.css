@@ -9,7 +9,7 @@
     top: 0;
     z-index: 100;
     border-radius: 10px;
-
+    
 }
 
 .nav__header {
@@ -17,16 +17,22 @@
     display: flex;
     gap: 10px;
     flex-direction: row-reverse;
+    
 }
 
-.nav__items {
+.nav__item {
     font-size: 20px;
     text-decoration: none;
     color: black;
     font-family: 'Roboto', sans-serif;
     transition: color 0.3s ease;
     background-color: transparent;
+}
 
+.nav__item:hover {
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
 }
 
 
