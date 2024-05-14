@@ -17,3 +17,14 @@ document.querySelector('form').addEventListener('submit', function(event) {
     }
 
 });
+
+(() => {
+    let gifContainer = document.getElementById('gif-container');
+    let gifPath = '../ASSETS/animations/yoshi.gif'; 
+
+    let img = new Image();
+    img.src = gifPath;
+
+    gifContainer.appendChild(img);
+})();
+

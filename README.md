@@ -28,7 +28,7 @@ source:
 
 
     #anim:
-        #
+        # https://cdn.discordapp.com/emojis/587027209160753153.gif?quality=lossless&size=48 
 
     #
  
