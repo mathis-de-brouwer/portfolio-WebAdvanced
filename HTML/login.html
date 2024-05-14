@@ -3,22 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel = "stylesheet" href = "../CSS/login.css">
+    <link rel="stylesheet" href="../CSS/index.css">
+    <link rel="icon" href="../ASSETS/favicons/favicon.ico">
     <title>Login</title>
-    <link rel = "stylesheet" href = "/CSS/login.css">
-    <!--<script src="../JS/Login.page.js"></script>-->
+    
 </head>
 <body>
 <div class="Login">
-    <form action="home.html">
+    <form>
         <div class="username-group">
             <label for="username">Username:</label>
-            <input type="text" id="username" name="username" required>
+            <input type="text" id="inputUsername" name="username" required>
         </div>
 
         <div class="password-group">
             <label for="password">Password:</label>
-            <input type="password" id="password" name="password" required>
-            
+            <input type="password" id="inputPassword" name="password" required>
         </div>
 
         <div class="Login-button">
@@ -26,6 +27,6 @@
         </div>
     </form>
 </div>
-    
+<script src="../JS/login.js"></script>
 </body>
 </html>

@@ -1,5 +1,5 @@
      
-    const headerCSS = '<link rel="stylesheet" href="/CSS/header.css">';
+    const headerCSS = '<link rel="stylesheet" href="../CSS/header.css">';
 
     function loadheaderCSS(code){
         const headLink = document.getElementsByTagName('head');
@@ -18,10 +18,10 @@
     `   
         <nav class="nav">
             <ul class="nav__header">
-                <li><a href="/HTML/home.html" class="nav__item">home</a></li>
-                <li><a href="/HTML/recipes.html" class="nav__item"">recipes</a></li>
-                <li><a href="/HTML/builds.html" class="nav__item">builds</a></li>
                 <li><a href="/HTML/contact.html" class="nav__item">contact</a></li>
+                <li><a href="/HTML/add.html" class="nav__item">add</a></li>
+                <li><a href="/HTML/recipes.html" class="nav__item"">recipes</a></li>
+                <li><a href="/HTML/home.html" class="nav__item">home</a></li>
             </ul>
         </nav>
     `;
