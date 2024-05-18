@@ -3,7 +3,7 @@
     display: flex;
     justify-content: space-between;
     padding: 5px;
-    flex-direction: row-reverse;
+    flex-direction: row;
     background-color: gray;
     position: sticky;
     top: 0;
@@ -11,6 +11,15 @@
     border-radius: 10px;
     
 }
+
+.headerimg {
+    width: 75px;
+    height: auto;
+    border-radius: 2px;
+    margin: 10px;
+}
+
+
 
 .nav__header {
     list-style: none;
