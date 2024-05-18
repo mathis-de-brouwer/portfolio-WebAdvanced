@@ -1,0 +1,42 @@
+
+[
+    {
+        "name": "Pate a pizza",
+        "time": "35min",
+        "amount": "1 pizza",
+        "ingredients": [
+            "1 pincee de sel",
+            "1 cuillere de levure",
+            "2 cuillere a soupe d'huile",
+            "100g de farine (a rajouter au besoins)",
+            "1 verre d'eau"
+        ],
+        "image": "../ASSETS/images/recette-Pâte-à-pizza-3-1024x1024.jpg",
+        "content": [
+            "1. put the water, levure, sel et huile ensamble dans un grand bol",
+            "2. add the farine petit a petit",
+            "3. knead the pate till its kinda elastic",
+            "4. let it rest for 1-2h if its warm, if you put it in the refrigerator let it rest for the night"
+        ]
+    },
+    {
+        "name": "Pate a pizza",
+        "time": "35min",
+        "amount": "1 pizza",
+        "ingredients": [
+            "1 pincee de sel",
+            "1 cuillere de levure",
+            "2 cuillere a soupe d'huile",
+            "100g de farine (a rajouter au besoins)",
+            "1 verre d'eau"
+        ],
+        "image": "../ASSETS/images/recette-Pâte-à-pizza-3-1024x1024.jpg",
+        "content": [
+            "1. put the water, levure, sel et huile ensamble dans un grand bol",
+            "2. add the farine petit a petit",
+            "3. knead the pate till its kinda elastic",
+            "4. let it rest for 1-2h if its warm, if you put it in the refrigerator let it rest for the night"
+        ]
+    }
+]
+

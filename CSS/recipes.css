@@ -1,0 +1,40 @@
+
+
+.recept {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 16px 0;
+    display: flex;
+}
+
+.texting {
+    height: 25%;
+
+}
+.name {
+    font-size: 1.5em;
+    margin-bottom: 8px;
+}
+.time, .amount, .ingredients, .content {
+    margin: 8px 0;
+
+}
+.image {
+    margin-left: auto;
+    max-width: 25%;
+    height: auto;
+}
+
+
+.adding {
+    display: flex;
+    justify-content: center;
+    margin: 16px 0;
+    border: 1px solid #ccc;
+    text-decoration: none;
+}
+
+.adding:hover {
+    border: 3px solid #ccc;
+    background-color: #f1f1f1;
+}

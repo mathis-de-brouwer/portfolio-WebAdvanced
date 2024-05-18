@@ -1,0 +1,17 @@
+
+.homediv {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 100%;
+    background-color: #f1f1f1;
+    
+
+}
+
+.home {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 2px;
+}
+
