@@ -6,28 +6,27 @@
     <link rel="stylesheet" href="../CSS/index.css">
     <link rel="icon" href="../ASSETS/favicons/favicon.ico">
     <link rel="stylesheet" href="../CSS/home.css">
+    <link rel="stylesheet" href="https://cdn.plyr.io/3.7.8/plyr.css" />
+
     <title>home</title>
 </head>
 <body>
     <header id="header"></header>
     
     <div class="homediv">
+
+
+        
         <div class="home1 home">
-            <video src="../ASSETS/video/chynez_bever.mov"></video>
-        </div>
-        <div class="home2 home">
-            <p>home page</p>
-
-        </div>
-        <div class="home3 home">
-            <p>home page</p>
-
-        </div>
-        <div class="home4 home">
-            <p>home page</p>
-
+            <video id="player" playsinline controls data-poster="../ASSETS/images/cornflaek.png">
+                <source src="../ASSETS/video/chinesbver.mp4" type="video/mp4">
+            </video>
         </div>
     </div>
+    <script src="https://cdn.plyr.io/3.7.8/plyr.polyfilled.js"></script>
+    <script>
+        const player = new Plyr('#player');
+    </script>
     <script src="../JS/header.js"></script>
 </body>
 </html>

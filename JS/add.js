@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
         alert('Recipe added successfully!');
     });
-
+    /*
     const recipesFromLocalStorage = JSON.parse(localStorage.getItem('recipes')) || [];
 
     fetch('../ASSETS/json/recept.json')
@@ -50,6 +50,6 @@ document.addEventListener('DOMContentLoaded', function(){
             .then(() => {
                 console.log('Recipes from localStorage added successfully to JSON file!');
             })
-        })
+        })*/
 
 });
