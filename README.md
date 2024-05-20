@@ -88,4 +88,8 @@ source:
         # https://cdn.discordapp.com/emojis/587027209160753153.gif?quality=lossless&size=48 
 
     #
+
+Mathis de Brouwer
+EHB 1ste jaar
+Portfolio webAdvanced
  

@@ -18,10 +18,10 @@
     `   
         <nav class="nav">
             <ul class="nav__header">
-                <li><a href="/HTML/contact.html" class="nav__item">contact</a></li>
-                <li><a href="/HTML/add.html" class="nav__item">add</a></li>
-                <li><a href="/HTML/recipes.html" class="nav__item"">recipes</a></li>
-                <li><a href="/HTML/home.html" class="nav__item">home</a></li>
+                <li><a href="../README.md" class="nav__item">contact</a></li>
+                <li><a href="../HTML/add.html" class="nav__item">add</a></li>
+                <li><a href="../HTML/recipes.html" class="nav__item"">recipes</a></li>
+                <li><a href="../HTML/home.html" class="nav__item">home</a></li>
             </ul>
             <img src="../ASSETS/logo/oldwindowslogo.png" alt="logo" class="headerimg">
         </nav>
