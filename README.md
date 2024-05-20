@@ -4,46 +4,46 @@
 
 
     usages:
-    Elementen selecteren
-        - header.js
-    Elementen manipuleren
-        - header.js
-    Event aan een element koppelen
-        - login.js
-    Formulier valideren
-        - login.js en login.html
-    Gebruiken van een constante
-        - login.js, header.js, add.js
-    Gebruiken van template literals
-        - add.js
-    Destructuring
-        - add.js
-    Spread & Rest operator
-        - laoding.js
-    Iteration over een array
-        - loading.js
-    Arrow function
-        - login.js
-    Callback function
-        - loading.js
-    Promise
-        - recipes.js
-    Consumer methods
-        - header.js
-    Async & Await
-        - loading.js
-    Self executing function
-        - login.js
-    Fetch om data op te halen
-        - recipes.js
-    JSON manipuleren en weergeven
-        - recipes.js
-    Basis CSS Animatie
-        - loading.html, animation.css
-    Gebruiken van een flexbox of CSS grid
-        - all .css files apart from index.css
-    Gebruik van LocalStorage
-        - add.js
+        Elementen selecteren
+            - header.js
+        Elementen manipuleren
+            - header.js
+        Event aan een element koppelen
+            - login.js
+        Formulier valideren
+            - login.js en login.html
+        Gebruiken van een constante
+            - login.js, header.js, add.js
+        Gebruiken van template literals
+            - add.js
+        Destructuring
+            - add.js
+        Spread & Rest operator
+            - laoding.js
+        Iteration over een array
+            - loading.js
+        Arrow function
+            - login.js
+        Callback function
+            - loading.js
+        Promise
+            - recipes.js
+        Consumer methods
+            - header.js
+        Async & Await
+            - loading.js
+        Self executing function
+            - login.js
+        Fetch om data op te halen
+            - recipes.js
+        JSON manipuleren en weergeven
+            - recipes.js
+        Basis CSS Animatie
+            - loading.html, animation.css
+        Gebruiken van een flexbox of CSS grid
+            - all .css files apart from index.css
+        Gebruik van LocalStorage
+            - add.js
 
 source:
     #chat-GPT:
