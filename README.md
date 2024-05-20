@@ -19,13 +19,13 @@
     Destructuring
         - add.js
     Spread & Rest operator
-        - 
+        - laoding.js
     Iteration over een array
-        - 
+        - loading.js
     Arrow function
         - login.js
     Callback function
-        - 
+        - loading.js
     Promise
         - recipes.js
     Consumer methods
