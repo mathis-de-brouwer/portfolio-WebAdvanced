@@ -20,17 +20,22 @@ document.addEventListener('DOMContentLoaded', function(){
             content: content
         };
 
+        const recipeNew = { name2: name, time2: time, amount2: amount, ingredients2: ingredients, image2: image, content2: content};
+        const {name2, time2, amount2} = recipeNew;
+        
+
         let recipes = JSON.parse(localStorage.getItem('recipes')) || [];
 
         recipes.push(newRecipe);
 
         localStorage.setItem('recipes', JSON.stringify(recipes));
 
+
         recipeForm.reset();
 
-        alert('Recipe added successfully!');
+        alert(`Recipe added successfully!: ${newRecipe.name} \n ${time2} \n ${amount2}`);
     });
-    /*
+    /* //this doesnt work cuz of PUT method not allowed
     const recipesFromLocalStorage = JSON.parse(localStorage.getItem('recipes')) || [];
 
     fetch('../ASSETS/json/recept.json')

@@ -13,7 +13,7 @@ document.querySelector('form').addEventListener('submit', function(event) {
     } else if (password != inputPassword) {
         alert("Invalid password. Try again.");
     } else {
-        window.location.href = "../HTML/home.html";
+        window.location.href = "../HTML/loading.html";
     }
 
 });
