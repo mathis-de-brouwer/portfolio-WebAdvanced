@@ -19,7 +19,7 @@
         Destructuring
             - add.js
         Spread & Rest operator
-            - laoding.js
+            - loading.js
         Iteration over een array
             - loading.js
         Arrow function
